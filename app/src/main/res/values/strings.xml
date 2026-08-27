@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">百度输入法OPPO版剪贴板解除限制</string>
+    <string name="module_desc">解除百度输入法OPPO定制版单条内容字符长度限制、复制去重限制, 支持自定义历史保留条数</string>
+    <string name="label_word_limit">单条内容字符长度上限</string>
+    <string name="hint_word_limit">例如 50000</string>
+    <string name="warn_word_limit">设太大可能导致复制成功但历史列表不显示(Binder传输限制约1MB), 请自行实测边界</string>
+    <string name="label_dedup_bypass">解除复制去重限制(重复内容也保留历史)</string>
+    <string name="label_count_override">自定义历史保留条数</string>
+    <string name="hint_max_count">例如 200 (需开启上方开关才生效)</string>
+    <string name="label_history_filter_bypass">解除历史列表14000字过滤(超长内容也在列表里显示)</string>
+    <string name="button_save">保存设置</string>
+    <string name="saved_restart_hint">已保存, 下次复制/粘贴时生效</string>
+    <string name="error_invalid_number">请输入合法范围内的数字</string>
+</resources>
